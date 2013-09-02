@@ -1,0 +1,1 @@
+New file to test adding remotes after git init.
